@@ -1,4 +1,6 @@
 Olá! Eu sou Paulo Henrique
+dev. front - end. • 22y
+📚 Atualmente estudando Ciências da Computação na Estácio.
 <div align="center">
   <a href="https://github.com/altherfx">
   <img height="218em" src="https://github-readme-stats.vercel.app/api?username=altherfx&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
