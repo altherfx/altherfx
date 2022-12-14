@@ -1,5 +1,5 @@
-Olá! Eu sou Paulo Henrique
-dev. front - end. • 22y
+Olá! Eu sou Paulo Henrique<br>
+dev. front - end. • 22y<br>
 📚 Atualmente estudando Ciências da Computação na Estácio.
 <div align="center">
   <a href="https://github.com/altherfx">
